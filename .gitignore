@@ -1,2 +1,8 @@
-/target
 .env
+
+__pychache__/
+.venv
+venv/
+
+.DS_Store
+.vscode/
